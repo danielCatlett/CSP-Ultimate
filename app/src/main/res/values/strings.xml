@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CSP Ultimate</string>
+    <string name="cspultimate">CSP Ultimate</string>
+    <string name="startKey">Start</string>
+    <string name="charsKey">Characters</string>
+    <string name="flipCharKey">Flip Character</string>
+    <string name="genCharKey">Generate Characters</string>
+    <string name="scoreKey">Score</string>
+    <string name="plusKey">+</string>
+    <string name="minusKey">-</string>
+    <string name="resetKey">Reset</string>
+    <string name="howToKey">How To Play</string>
+    <string name="par1Key">Cactuar Stamina Pancake (CSP) is a special game mode for Melee.  It is a highly random game mode that encourages knowledge of a wide variety of characters. However, the mode does not work well in newer Smash games,  since the mode requires seeing what characters were picked by random beforehand. That\'s where CSP Ultimate comes in. It picks the characters for you.</string>
+    <string name="introKey">Intro</string>
+    <string name="par2Key">Although the original CSP rules were designed for Melee, this ruleset emulates the traditional rules fairly closely. Feel free to expirement with other variations.</string>
+    <string name="rulesKey">- Best of Seven\n\n- Random stage; turn off New Pork City, 75 M, The Great Cave Offensive, Palutena\'s Temple, and Gaur Plain\n\n- Stamina mode (150 stamina)\n\n- Items off\n\n- Tap \"Generate Characters\" to get your opponent\'s and your own characters. Play out  the first game\n\n- For the rest of the games, start by generating two characters. After that, whoever just lost the most recent match may choose to either flip their own character, their  opponent\'s character, or neither. Then you play out the match with the new characters.</string>
+    <string name="notesKey">Notes</string>
+    <string name="noteBulletsKey">- If both players simutaneously die, you both get a point\n\n- If you kill your opponent, but die in the slo mo, you both get a point</string>
+    <string name="creditsKey">Credits</string>
+    <string name="creditsDetailsKey">Development: Daniel Catlett\n@catelt42 on Twitter\nlinkedin.com/in/daniel-catlett-5814b4122 (please hire me)\n\nVisual Design: Simon Saxsma\n@simonsaxsma on Twitter\nHe would probably like to be hired too</string>
+    <string name="shoutoutsKey">Also shoutouts to Jacob and Jon for hanging out while I worked on this</string>
+</resources>
